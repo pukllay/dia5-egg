@@ -1,0 +1,29 @@
+/******************************************
+display: inline-block; Este es pa una linea
+display: block; Este es pa bloque osea uno encima de otro
+*****************************************************/
+div {
+    background: rgb(151,218,89);
+    background: linear-gradient(147deg, rgba(151,218,89,1) 0%, rgba(39,156,231,1) 50%, rgba(151,218,89,1) 100%);
+    font-family: cooper;
+    display:inline-block;
+}
+a {
+    background: orange;
+    color:rgb(0, 132, 255);
+    /* display: block; */
+    /* display:inline-block; */
+}
+ul{
+    display: inline-block; /*Este es pa una linea*/
+}
+
+il{
+    background: red;
+    display: block; /*Este es pa bloque osea uno encima de otro*/
+}
+p{
+    background: blueviolet;
+    display:inline-block;
+}
+
